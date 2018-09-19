@@ -1,10 +1,10 @@
 course := "bigdata"
-assignment := "stackoverflow"
+assignment := "timeusage"
 
 assignmentInfo := AssignmentInfo(
-  key = "7ByAoS4kEea1yxIfJA1CUw",
-  itemId = "QhzMw",
-  premiumItemId = Some("FWGnz"),
-  partId = "OY5fJ",
+  key = "mVk0fgQ0EeeGZQrYVAT1jg",
+  itemId = "O0akp",
+  premiumItemId = Some("T19Ec"),
+  partId = "y8PO8",
   styleSheet = None
 )

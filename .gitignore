@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -60,11 +63,6 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-
-/.idea/
-/target/
-/src/main/resources/stackoverflow/stackoverflow.csv
-/src/main/resources/stackoverflow/stackoverflow.csv.bak
 ### SBT template
 # Simple Build Tool
 # http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
@@ -79,7 +77,4 @@ project/plugins/project/
 .cache
 .lib/
 
-### Scala template
-*.class
-*.log
-
+/src/main/resources/timeusage/atussum.csv
